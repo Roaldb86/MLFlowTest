@@ -1,6 +1,6 @@
 # Steps to run this mlflow package:
 
-## install mlflow and pyenv:
+## Create env using conda.yaml or install mlflow and pyenv:
 
 `pip install mlflow` \
 `pip install pyenv`
