@@ -3,7 +3,7 @@
 ## Create env using conda.yaml or install mlflow and pyenv:
 
 `conda create -f conda.yaml` \
-`conda activate mlflow-env` \
+`conda activate mlflow-env` 
 
 or 
 
