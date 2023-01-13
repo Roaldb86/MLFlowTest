@@ -7,4 +7,5 @@ dependencies:
   - mlflow<3,>=2.1
   - cloudpickle==2.2.0
   - scikit-learn==1.2.0
+  - pyenv==2.3.10
 name: mlflow-env
